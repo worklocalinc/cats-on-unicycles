@@ -1,0 +1,17 @@
+{
+  "finished_at": "2026-01-31T21:16:54.156166",
+  "result": {
+    "images": [
+      {
+        "content_type": "image/jpeg",
+        "file_name": "FKJ7ediJoFW7yyo65kuqu.jpg",
+        "file_size": null,
+        "height": 768,
+        "url": "https://v3b.fal.media/files/b/0a8cabf2/FKJ7ediJoFW7yyo65kuqu.jpg",
+        "width": 1024
+      }
+    ],
+    "seed": 223429031
+  },
+  "started_at": "2026-01-31T21:16:27.030343"
+}
