@@ -1,0 +1,9 @@
+# Cats on Unicycles Website
+
+# Dependencies (CDN-loaded, no install needed)
+# - Tailwind CSS
+# - Google Fonts (Poppins, Inter)
+# - GSAP (optional animations)
+
+# Local development
+npx live-server
